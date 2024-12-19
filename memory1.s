@@ -1,7 +1,7 @@
 # 
 # Nedir Castelani 19/dez/24
 # 
-# 
+# Endereçamento de memoria
 
 .global _start
 _start:
