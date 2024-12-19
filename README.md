@@ -1,2 +1,4 @@
 # MIPS
-Projeto de programas para maquinas baseadas em MIPS 8 bits
+Projeto de programas para maquinas baseadas em MIPS 8 bits.
+
+Para rodar os codigos utilize o simulador ( https://cpulator.01xz.net/?sys=mipsr5-spim ) e abra os arquivos ".s" apartir dele.
